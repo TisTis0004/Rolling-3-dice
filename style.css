@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: black;
 }
 label {
     display:block;
@@ -24,7 +24,7 @@ label {
     border-color: #9b0202;
 }
 hr {
-    background-color: black;
+    background-color: white;
     height: 5px;
     border-style: solid;
     border-radius: 15px;
