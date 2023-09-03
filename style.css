@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+}
+label {
+    display:block;
+    font-size: 2.5rem;
+    width: 200px;
+}
+#roll {
+    font-size: 2rem;
+}
+#roll,label {
+    background-color: aqua;
+    color: red;
+    border: 3px solid red;
+}
+#roll:hover {
+    cursor: pointer;
+    background-color: red;
+    color: aqua;
+}
+#roll:active {
+    background-color: #9b0202;
+    border-color: #9b0202;
+}
+hr {
+    background-color: black;
+    height: 5px;
+    border-style: solid;
+    border-radius: 15px;
+}
